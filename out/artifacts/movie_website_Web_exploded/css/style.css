@@ -1,0 +1,20 @@
+.main_nav {
+	width: 300px;
+	margin: 20px auto 10px auto
+}
+
+.main_nav li {
+	list-style:none;
+	float: left;
+	margin-right: 10px;
+	font-size: 16px;
+	padding: .6em 1em;
+	border-radius: 3em;
+	background: #2f889a;
+	text-align: center
+}
+
+.main_nav li a {
+	color: #fff
+}
+
