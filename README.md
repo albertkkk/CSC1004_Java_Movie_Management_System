@@ -1,4 +1,4 @@
-# CSC1004_Java_Movie_Management_System
+#Java_Movie_Management_System
 Tutorial for Java Project
 
 Student name: Yulun Wu
