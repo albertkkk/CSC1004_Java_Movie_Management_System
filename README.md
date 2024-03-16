@@ -1,11 +1,7 @@
 #Java_Movie_Management_System
 Tutorial for Java Project
 
-Student name: Yulun Wu
-Student ID: 122090589
-Github: https://github.com/albertkkk/CSC1004_Java_Movie_Management_System
- 
- 
+Student name: Yulun Wu 
 -------------Brief introduction:------------
 
 Firstly, I use wed application. Therefore, before running this code, please configured：Tomcet9.0.74 and JDK9.0.4.
